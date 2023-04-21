@@ -1,0 +1,35 @@
+.cuerpo {
+  background-color: blueviolet;
+}
+
+.imagen {
+  width: 300px;
+}
+
+ul {
+  margin: 0;
+  list-style: none;
+}
+
+li {
+  display: inline-block;
+}
+
+h2 {
+  align-items: center;
+}
+
+p {
+  font-size: 14px;
+  color: blueviolet;
+}
+
+.contenedorCard__tarjeta {
+  background-color: pink;
+}
+
+.contenedorCard__boton {
+  background-color: #faa05a;
+}
+
+/*# sourceMappingURL=main.css.map */
